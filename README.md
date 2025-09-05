@@ -21,12 +21,11 @@ python manage.py createsuperuser   # optional
 python manage.py runserver
 
 ##project structure
-<div>
+
 myproject/
-│── customers/          # App for customer CRUD
-│── myproject/          # Main project settings
-│── db.sqlite3          # Database file
-│── manage.py           # Django management script
-</div>
+│── customers/ # App for customer CRUD
+│── myproject/ # Main project settings
+│── db.sqlite3 # Database file
+│── manage.py # Django management script
 
 
