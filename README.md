@@ -24,8 +24,11 @@ python manage.py runserver
 
 myproject/
 │── customers/ # App for customer CRUD
+
 │── myproject/ # Main project settings
+
 │── db.sqlite3 # Database file
+
 │── manage.py # Django management script
 
 
