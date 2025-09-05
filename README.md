@@ -29,3 +29,8 @@ myproject/
 │── manage.py # Django management script
 
 
+
+
+
+
+
