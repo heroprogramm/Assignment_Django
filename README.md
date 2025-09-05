@@ -14,20 +14,19 @@ git clone https://github.com/heroprogramm/Assignment_django.git
 cd Assignment_django
 
 ````
-<div>##Setup & Run
+##Setup & Run
 pip install django
 python manage.py migrate
 python manage.py createsuperuser   # optional
 python manage.py runserver
-</div>
-
 
 ##project structure
+<div>
 myproject/
 │── customers/          # App for customer CRUD
 │── myproject/          # Main project settings
 │── db.sqlite3          # Database file
 │── manage.py           # Django management script
-
+</div>
 
 
