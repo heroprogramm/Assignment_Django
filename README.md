@@ -1,17 +1,16 @@
 # Assignment_Django
 
- 📝 Assignment Django Project
-
-This is a simple Django project for managing customers (Create, Read, Update, Delete).
+<div><h1>📝 Assignment Django Project</h1>
+<p>This is a simple Django project for managing customers (Create, Read, Update, Delete).
 🚀 Features
 .Add new customers
 .View customer list
 .Update existing customers
-.Delete customers with confirmation
+.Delete customers with confirmation</p></div>
 
-<h1>
+<h2>
   Clone the Repo
-</h1>
+</h2>
 <p>git clone https://github.com/heroprogramm/Assignment_django.git
 cd Assignment_django
 </p>
