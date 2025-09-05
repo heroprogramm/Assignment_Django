@@ -1,8 +1,8 @@
-# Assignment Django Project
+<h1>Assignment Django Project</h1>
 
 This is a simple Django project for managing customers (Create, Read, Update, Delete).
 
-## Features
+<h1> Features</h1>
 - Add new customers  
 - View customer list  
 - Update existing customers  
@@ -15,12 +15,16 @@ cd Assignment_django
 
 ````
 Setup & Run
+
 pip install django
+
 python manage.py migrate
-python manage.py createsuperuser   # optional
+
+python manage.py createsuperuser  
+# optional
 python manage.py runserver
 
-project structure
+<h2>project structure</h2>
 
 myproject/
 │── customers/  # App for customer CRUD
